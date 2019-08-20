@@ -1,6 +1,6 @@
 # my_bloc_movies
 
-A new Flutter project.
+Test flutter bloc pattern with rxdart
 
 ## Getting Started
 
